@@ -5,7 +5,7 @@ Integrantes:
 - Dorian Alberto García Giraldo
 - Leonardo Araque Quintero
 
-En la sección de Brances, se encuentra el código del Front, ir a la carpeta src y en el archivo FlightSearch.jsx, se puede ver el código
+En la sección de Branches, se encuentra el código del Front, ir a la carpeta src y en el archivo FlightSearch.jsx, se puede ver el código
 
 vuelos es el back que hicimos en el laboratorio
 
